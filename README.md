@@ -7,3 +7,5 @@
 ## Mudanças
 
 * git push
+
+* git pull
